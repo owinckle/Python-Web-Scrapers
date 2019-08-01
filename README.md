@@ -1,2 +1,2 @@
-# Python-Web-Scrapers is a repo containing multiple Web Scrapers
-Python3 using BS4
+# Python-Web-Scrapers
+A repo containing multiple Web Scrapers made using Python3 & BS4
